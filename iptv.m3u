@@ -2167,68 +2167,81 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcworldnews.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8 
 
-#EXTINF:-1 group-title="FMX" tvg-logo="",bloomberg
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1920px-New_Bloomberg_Logo.svg.png",Bloomberg
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8 
 
-#EXTINF:-1 group-title="FMX" tvg-logo="",btv
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1280px-BTV_%28Indonesia%29_logo.svg.png",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",cartoonito
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/250px-Cartoonito_-_Logo_2021.svg.png",cartoonito
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",cartoonnetwork
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",cctv4
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/800px-CCTV-4_channel.svg.png",cctv4
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",celestialmovies
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",Celestial Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="",cgtn
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png",CGTN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",cgtndocumentary
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1920px-CGTN_Documentary.svg.png",CGTN Documentary
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",cna
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",cna
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",citrabioskop
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/Citra%20Bioskop.png",Citra Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",citradangdut
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/Citra%20Dangdut.png",Citra Dangdut
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",citradrama
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",citraentertainment
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",citramuslim
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",citramuslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",cnn
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",cnn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
 #EXTINF:-1 group-title="FMX" tvg-logo="",crimeinvestigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",daai
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",daai
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",davinci
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",davinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",discoveryasia
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoveryasia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",discoverychannel
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoverychannel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",dmax
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dmax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",dragon
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dragon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8 
-EXTINF:-1 group-title="FMX" tvg-logo="",dreamworks err
+EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dreamworks err
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",dwdeutsch
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dwdeutsch
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",dwenglish
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dwenglish
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",euronews
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",euronews
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",eurosport
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",eurosport
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",ewtn
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",ewtn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8 
-EXTINF:-1 group-title="FMX" tvg-logo="",fashiontv err
+EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",fashiontv err
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch16%29/index.m3u8 
-EXTINF:-1 group-title="FMX" tvg-logo="",firsthighlight err
+EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",firsthighlight err
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch900%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",firstwarriors
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",firstwarriors
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
 #EXTINF:-1 group-title="FMX" tvg-logo="",foodnetwork
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8 
