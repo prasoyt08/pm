@@ -2215,11 +2215,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index
 
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",cnn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",crimeinvestigation
+#EXTINF:-1 group-title="FMX" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",crimeinvestigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",daai
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",daai
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",davinci
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",davinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoveryasia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
