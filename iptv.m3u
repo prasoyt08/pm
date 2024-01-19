@@ -2127,45 +2127,49 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 
-=========================================== FMX ===========================================
+=========================================== PRASMEDIA ===========================================
 
-#EXTINF:-1 group-title="FMX" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/abc.png",abc
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/abc.png",ABC
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/abc.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
 
-#EXTINF:-1 group-title="FMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1024px-Asian_Food_Network.svg.png",afn
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1024px-Asian_Food_Network.svg.png",afn
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="",aljazeeraarabic
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/shr_ljzyr_lnjlyzy_-_sly_0.png",Al Jazeera Arabic
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraarabic.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8 
-EXTINF:-1 group-title="FMX" tvg-logo="",aljazeeraenglish
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/shr_ljzyr_lnjlyzy_-_sly_0.png",Al Jazeera English
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraenglish.m3u8
-EXTINF:-1 group-title="FMX" tvg-logo="",anhui err
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch222%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",animalplanet
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8  
-#EXTINF:-1 group-title="FMX" tvg-logo="",animax
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",antv
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/antv.png",antv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",arirang
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1920px-Arirang.svg.png",arirang
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/arirang.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",axn
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png",axn
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
-EXTINF:-1 group-title="FMX" tvg-logo="",balaikota err
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8 
-EXTINF:-1 group-title="FMX" tvg-logo="",balaikota bdg err
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",bbcworldnews
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",BBC World News
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcworldnews.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8 
+
 #EXTINF:-1 group-title="FMX" tvg-logo="",bloomberg
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8 
+
 #EXTINF:-1 group-title="FMX" tvg-logo="",btv
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8 
 #EXTINF:-1 group-title="FMX" tvg-logo="",cartoonito
