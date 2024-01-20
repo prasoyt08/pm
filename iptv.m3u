@@ -2222,10 +2222,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",daai
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoveryasia
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://en.m.wikipedia.org/wiki/Discovery_Asia#/media/File%3ADiscovery-asia.png",Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoverychannel
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://en.m.wikipedia.org/wiki/Discovery_Channel#/media/File%3A2019_Discovery_logo.svg",Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
+
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dmax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dragon
