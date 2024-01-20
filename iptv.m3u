@@ -4,7 +4,7 @@
 =========================================== ENTERTAINMENT ===========================================
 
 #EXTINF:-1 tvg-name="DUNIA LAIN" tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png" group-title="ENTERTAINMENT",DUNIA (Indi)
-blob:https://youfiles.herokuapp.com/e0726fa9-b04c-41b8-9030-4b3d62032145
+https://drive.google.com/file/d/1X7ngRDmcodhXa7NGNIqAHId4DuPHLfd4/view
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
