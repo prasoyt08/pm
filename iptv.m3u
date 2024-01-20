@@ -2237,17 +2237,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index
 EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1361px-DreamWorks_Channel_Logo.svg.png",Dreamworks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dwdeutsch
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dwenglish
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?20120320155128",DW English
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",euronews
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",Euro News
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",eurosport
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1920px-Eurosport_Logo_2015.svg.png",Euro Sport
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",ewtn
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/220px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",ewtn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8 
-EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",fashiontv err
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",Fashion tv
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch16%29/index.m3u8 
 EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",firsthighlight err
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch900%29/index.m3u8 
