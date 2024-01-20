@@ -2210,17 +2210,18 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/Citra%20Entertaiment.png",Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",citramuslim
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/20240120_125209.png",cnn
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/1024px-CNN_Indonesia_logo.svg.png",CNN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/20240120_125209.png",crimeinvestigation
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png",Crime Investigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",daai
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",daai
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",davinci
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
+
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoveryasia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",discoverychannel
