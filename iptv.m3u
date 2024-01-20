@@ -2276,18 +2276,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",Hits Movie
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
 
-#EXTINF:-1 group-title="FMX" tvg-logo="",hits
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",Hits
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",hooree
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",hooree
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",hunan
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Hunan_TV.svg/revision/latest?cb=20220421123225",hunan
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",idx
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png",idx
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",idtv
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/IDTV.png",idtv
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",jakartaglobe
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ea/Jakarta_globe_news_channel_id.png",Jakarta Globe
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8 
+
 #EXTINF:-1 group-title="FMX" tvg-logo="",jaktv
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
 #EXTINF:-1 group-title="FMX" tvg-logo="",jiangsu
