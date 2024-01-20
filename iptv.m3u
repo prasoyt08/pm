@@ -2213,9 +2213,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",citramuslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",cnn
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/20240120_125209.png",cnn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",crimeinvestigation
+#EXTINF:-1 group-title="FMX" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/20240120_125209.png",crimeinvestigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/prasmedia.png",daai
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
