@@ -2222,18 +2222,21 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",daai
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://en.m.wikipedia.org/wiki/Discovery_Asia#/media/File%3ADiscovery-asia.png",Discovery Asia
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://en.m.wikipedia.org/wiki/Discovery_Channel#/media/File%3A2019_Discovery_logo.svg",Discovery Channel
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dmax
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/1920px-DMAX_BLACK.svg.png",dmax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dragon
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png",Dragon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8 
-EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dreamworks err
+
+EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1361px-DreamWorks_Channel_Logo.svg.png",Dreamworks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
+
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dwdeutsch
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8 
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",dwenglish
