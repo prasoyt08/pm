@@ -2309,22 +2309,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/260px-KBS_World_%282009%29.svg.png",KBS World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",kix
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/150px-KIX_logo.svg.png",KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",kompastv
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/220px-KOMPAS_TV_%282017%29.svg.png",KompasTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",lifestyle
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://download.logo.wine/logo/Lifestyle_(Australian_TV_channel)/Lifestyle_(Australian_TV_channel)-Logo.wine.png",lifestyle
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",lifetime
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png",lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",lovenature
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",lovenature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",Metrotv
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png",Metrotv
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8   
 
 EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",moji err
