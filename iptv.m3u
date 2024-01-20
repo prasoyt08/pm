@@ -3,6 +3,8 @@
 
 =========================================== ENTERTAINMENT ===========================================
 
+#EXTINF:-1 tvg-name="DUNIA LAIN" tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png" group-title="ENTERTAINMENT",DUNIA (Indi)
+https://www.terabox.com/indonesian/play/video?path=%2Frobloxapp-20221204-1636141.wmv&t=-1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
