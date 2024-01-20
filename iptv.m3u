@@ -2249,18 +2249,18 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/220px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",ewtn
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8 
 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",Fashion tv
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch16%29/index.m3u8 
-EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",firsthighlight err
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch900%29/index.m3u8 
-#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="",firstwarriors
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://liquipedia.net/commons/images/7/7b/First_Warriors.png",First Warriors
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",foodnetwork
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/150px-Food_Network_logo.svg.png",Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",france24english
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png",France24
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8 
-#EXTINF:-1 group-title="FMX" tvg-logo="",garuda
+
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo_GarudaTV_3D_Putih_Silver_Merah.png",Garuda
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8 
+
 #EXTINF:-1 group-title="FMX" tvg-logo="",gem
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
 #EXTINF:-1 group-title="FMX" tvg-logo="",globaltrekker
