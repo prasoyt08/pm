@@ -5,17 +5,14 @@
 #EXTINF:-1 group-title="Local Channels" tvg-logo="",
 
 =METRO=
-
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",METROTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
 =TVONE=
-
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1280px-TvOne_2023.svg.png",TVONE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
 
 =KOMPAS=
-
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kompas.svg/2560px-Kompas.svg.png",KOMPAS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
@@ -129,7 +126,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 
 =CINEMAWORLD=
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png",CINEMAWORLD
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CINEMAWORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
 
