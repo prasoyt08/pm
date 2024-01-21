@@ -149,7 +149,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
 
 =FIGHT SPORTS=
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",FIGHT SPORTS
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png",FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
 
 =SPOTV=
@@ -192,7 +192,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
 
 =NHK WORLD=
-#EXTINF:-1 group-title="International Channels" tvg-logo="",NHK WORLD
+#EXTINF:-1 group-title="International Channels" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/nhk-world-tv.png",NHK WORLD
 http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
 
 =ANIMAL PLANET=
