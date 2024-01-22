@@ -2,7 +2,10 @@
 
 
 ========== Local Channels =========
-#EXTINF:-1 group-title="Local Channels" tvg-logo="",
+
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",info
+https://raw.githubusercontent.com/prasoyt08/pm/main/testDigital.m3u
 
 =METRO=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",METRO TV
@@ -64,7 +67,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
 
 =FIRST WARIORS=
-#EXTINF:-1 group-title="Local Channels" tvg-logo="https://liquipedia.net/commons/images/7/7b/First_Warriors.png",FRIST WARIORS=
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://liquipedia.net/commons/images/7/7b/First_Warriors.png",FRIST WARIORS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
 
 =JAKARTA GLOBE=
