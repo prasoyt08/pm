@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Local Channels" tvg-logo="",
 
 =METRO=
-#EXTINF:-1 group-title="Local Channels" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",METROTV
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",METRO TV
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 http://210.210.155.35/uq2663/h/h12/index.m3u8
 
