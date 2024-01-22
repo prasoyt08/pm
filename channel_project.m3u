@@ -22,12 +22,15 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
 
 =NET=
 EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1280px-NET._sky_blue.svg.png",NET
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
 =SCTV=
-EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 =INDOSIAR=
 EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 =TRANS7=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://e7.pngegg.com/pngimages/283/746/png-clipart-trans7-indonesia-trans-tv-streaming-media-television-trans-march-purple-blue.png",TRANS7
