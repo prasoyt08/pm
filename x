@@ -1,4 +1,4 @@
-#EXTM3u
+#EXTM3U
 
 #EXTINF:0 group-title="SHAREEXT@Кино_пакет" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png",Вечная ночь
 https://video1.tizam.cc/files/2555484/forever_night__1998___s_russkim_perevodom.mp4
