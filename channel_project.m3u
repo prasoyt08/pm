@@ -173,6 +173,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/rockentertaiment.m3u8
 
 =ROCK ACTION=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web.png",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/prasoyt08/live/main/rockaction.m3u8
 
 =ZEE BIOSKOP=
