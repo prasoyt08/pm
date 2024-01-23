@@ -170,6 +170,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",ZEE BIOSKOP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
 
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",
+
 =FIGHT SPORTS=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png",FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
@@ -229,4 +231,5 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.
 #EXTINF:-1 group-title="International Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?20120320155128",DW English
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
 
-=CCTV 4=
+=DISCOVERY=
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",DISCOVERY
