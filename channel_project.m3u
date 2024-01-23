@@ -94,6 +94,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 EXTINF:-1 group-title="Premium Channels" tvg-logo="",
 
 
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",AXN
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Biosop
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Dangdut
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Drama
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Entertaiment
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Muslim
+
 =HITS=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
@@ -173,6 +185,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 =NICKELODEON=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",ANIMAX
+
+EXTINF:-1 group-title="Premium Channels" tvg-logo="",HBO
 
 
 
