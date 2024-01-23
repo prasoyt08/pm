@@ -114,7 +114,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index
 
 =TVN MOVIES=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://res.heraldm.com/content/image/2017/01/11/20170111000864_0.jpg",TVN MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+https://raw.githubusercontent.com/prasoyt08/live/main/tvnmovie.m3u8
 
 =CELESTIAL MOVIES=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",CELESTIAL MOVIES
