@@ -6,12 +6,12 @@
 
 #EXTINF:-1 group-title="Local Channels" tvg-logo="",info
 #https://raw.githubusercontent.com/prasoyt08/pm/main/testDigital.m3u8
-https://i.ibb.co/4s8vsMC/20230508-172024.jpg
+#https://i.ibb.co/4s8vsMC/20230508-172024.jpg
 
 =METRO=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",METRO TV
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
-http://210.210.155.35/uq2663/h/h12/index.m3u8
+https://raw.githubusercontent.com/prasoyt08/live/main/tvone.m3u8
+#http://210.210.155.35/uq2663/h/h12/index.m3u8
 
 =TVONE=
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1280px-TvOne_2023.svg.png",TVONE
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 =TRANS7=
-#EXTINF:-1 group-title="Local Channels" tvg-logo="https://e7.pngegg.com/pngimages/283/746/png-clipart-trans7-indonesia-trans-tv-streaming-media-television-trans-march-purple-blue.png",TRANS7
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trans_7_2013_Iklan.svg/langfr-150px-Trans_7_2013_Iklan.svg.png",TRANS7
 https://raw.githubusercontent.com/prasoyt08/live/main/trans7.m3u8
 
 =TRANS=
@@ -97,23 +97,28 @@ https://raw.githubusercontent.com/prasoyt08/live/main/rodjatv.m3u8
 ========== Premium Channels =========
 EXTINF:-1 group-title="Premium Channels" tvg-logo="",
 
-
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",AXN
+=AXN=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png",AXN
 https://raw.githubusercontent.com/prasoyt08/live/main/axn.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Biosop
+=CITRA BIOSKOP=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png",CITRA Biosop
 https://raw.githubusercontent.com/prasoyt08/live/main/citrabioskop.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Dangdut
+=CITRA DANGDUT=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png",CITRA Dangdut
 https://raw.githubusercontent.com/prasoyt08/live/main/citradangdut.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Drama
+=CITRA DRAMA=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest/scale-to-width-down/250?cb=20210307072503",CITRA Drama
 https://raw.githubusercontent.com/prasoyt08/live/main/citradrama.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Entertaiment
+=CITRA ENTERTAIMENT=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548",CITRA Entertaiment
 https://raw.githubusercontent.com/prasoyt08/live/main/citraentertainment.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Muslim
+=CITRA MUSLIM=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",CITRA Muslim
 https://raw.githubusercontent.com/prasoyt08/live/main/citramuslim.m3u8
 
 =HITS=
@@ -198,14 +203,25 @@ https://raw.githubusercontent.com/prasoyt08/live/main/spotv2.m3u8
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
 https://raw.githubusercontent.com/prasoyt08/live/main/nikelodeon.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",ANIMAX
+=ANIMAX=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
 https://raw.githubusercontent.com/prasoyt08/live/main/animax.m3u8
 
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",HBO
+=HBO=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg",HBO
 https://raw.githubusercontent.com/prasoyt08/pm/main/hbo.m3u8
 
+=HBOFAMILY=
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg",HBO Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 
+=HBOHITS=
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg",HBO Hits
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
 
+=HBOSIGNATURE=
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg",HBO Signature
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 
 ========== International Channels =========
@@ -241,5 +257,5 @@ https://raw.githubusercontent.com/prasoyt08/live/main/animalplanet.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/dw.m3u8
 
 =DISCOVERY=
-#EXTINF:-1 group-title="Premium Channels" tvg-logo="",DISCOVERY
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/800px-Discovery_Channel_-_Logo_2019.svg.png",DISCOVERY
 https://raw.githubusercontent.com/prasoyt08/live/main/discoveryasia.m3u8
