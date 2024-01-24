@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/kompas.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/antv.m3u8
 
 =NETTV=
-EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1280px-NET._sky_blue.svg.png",NET
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1280px-NET._sky_blue.svg.png",NET
 https://raw.githubusercontent.com/prasoyt08/live/main/nettv.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/sctv.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 =INDOSIAR=
-EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR
 https://raw.githubusercontent.com/prasoyt08/live/main/indosiar.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/tvri.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/jaktv.m3u8
 
 =DAItv=
-EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAItv
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAItv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/prasoyt08/live/main/daitv.m3u8
 
@@ -98,22 +98,22 @@ https://raw.githubusercontent.com/prasoyt08/live/main/rodjatv.m3u8
 EXTINF:-1 group-title="Premium Channels" tvg-logo="",
 
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",AXN
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",AXN
 https://raw.githubusercontent.com/prasoyt08/live/main/axn.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Biosop
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Biosop
 https://raw.githubusercontent.com/prasoyt08/live/main/citrabioskop.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Dangdut
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Dangdut
 https://raw.githubusercontent.com/prasoyt08/live/main/citradangdut.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Drama
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Drama
 https://raw.githubusercontent.com/prasoyt08/live/main/citradrama.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Entertaiment
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Entertaiment
 https://raw.githubusercontent.com/prasoyt08/live/main/citraentertainment.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Muslim
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",CITRA Muslim
 https://raw.githubusercontent.com/prasoyt08/live/main/citramuslim.m3u8
 
 =HITS=
@@ -197,10 +197,10 @@ https://raw.githubusercontent.com/prasoyt08/live/main/spotv2.m3u8
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
 https://raw.githubusercontent.com/prasoyt08/live/main/nikelodeon.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",ANIMAX
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",ANIMAX
 https://raw.githubusercontent.com/prasoyt08/live/main/animax.m3u8
 
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",HBO
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",HBO
 https://raw.githubusercontent.com/prasoyt08/pm/main/hbo.m3u8
 
 
@@ -240,5 +240,5 @@ https://raw.githubusercontent.com/prasoyt08/live/main/animalplanet.m3u8
 https://raw.githubusercontent.com/prasoyt08/live/main/dw.m3u8
 
 =DISCOVERY=
-EXTINF:-1 group-title="Premium Channels" tvg-logo="",DISCOVERY
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="",DISCOVERY
 https://raw.githubusercontent.com/prasoyt08/live/main/discoveryasia.m3u8
