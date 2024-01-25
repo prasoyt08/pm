@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/prasoyt08/live/main/spotv2.m3u8
 
 =NICKELODEON=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",nickelodeon
-https://raw.githubusercontent.com/prasoyt08/live/main/nikelodeon.m3u8
+#https://raw.githubusercontent.com/prasoyt08/live/main/nikelodeon.m3u8
 
 =ANIMAX=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
@@ -209,22 +209,18 @@ https://raw.githubusercontent.com/prasoyt08/live/main/animax.m3u8
 
 =HBO=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg",HBO
-#https://raw.githubusercontent.com/prasoyt08/pm/main/hbo.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/693
 
 =HBOFAMILY=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg",HBO Family
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/98
 
 =HBOHITS=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg",HBO Hits
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 
 =HBOSIGNATURE=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg",HBO Signature
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/99
 
 
