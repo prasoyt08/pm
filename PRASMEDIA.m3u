@@ -4,6 +4,9 @@
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/20240120_125209.png",PRASMEDIA
 https://pouch.jumpshare.com/preview/iZcCJ2iVRXNYGK3NF57LTcvC4npeK0Ozfdsizua6fZZiv60eNC0iOSQDgx7vkVv-G_olcjPK9ULCqrkbVdLRKMJovQs5bT3P_gnEjmVwC43n_mAODcDc4WW--mCBBXJ7-Y8TWs7VGh8em_ljWHEbzqN_fIMI2zJarj0avEcXWfs.mp4
 
+#EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/20240120_125209.png",RCTI
+https://raw.githubusercontent.com/prasoyt08/pm/main/rcti.m3u8
+
 #EXTINF:-1 group-title="PRASMEDIA" tvg-logo="https://raw.githubusercontent.com/prasoyt08/pm/main/logo/abc.png",ABC
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/abc.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
