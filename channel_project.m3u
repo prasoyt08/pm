@@ -184,7 +184,15 @@ https://raw.githubusercontent.com/prasoyt08/live/main/rockaction.m3u8
 
 =ZEE BIOSKOP=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",ZEE BIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+https://raw.githubusercontent.com/prasoyt08/live/main/zeebioskop.m3u8
+
+=ZEE CINEMA=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",ZEE CINEMA
+https://raw.githubusercontent.com/prasoyt08/live/main/zeecinema.m3u8
+
+=ZEE ACTION=
+#EXTINF:-1 group-title="Premium Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",ZEE ACTION
+https://raw.githubusercontent.com/prasoyt08/live/main/zeeaction.m3u8
 
 =FIGHT SPORTS=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png",FIGHT SPORTS
@@ -209,19 +217,19 @@ https://raw.githubusercontent.com/prasoyt08/live/main/animax.m3u8
 
 =HBO=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20SD-FirstMedia-Chl-285.jpg",HBO
-https://link.zozotv.xyz:443/rozila969/abc12345/693
+https://raw.githubusercontent.com/prasoyt08/live/main/hbo.m3u8
 
 =HBOFAMILY=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Family%20SD-FirstMedia-Chl-288.jpg",HBO Family
-https://link.zozotv.xyz:443/rozila969/abc12345/98
+https://raw.githubusercontent.com/prasoyt08/live/main/hbofamily.m3u8
 
 =HBOHITS=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Hits%20SD-FirstMedia-Chl-287.jpg",HBO Hits
-https://link.zozotv.xyz:443/rozila969/abc12345/97
+https://raw.githubusercontent.com/prasoyt08/live/main/hbohits.m3u8
 
 =HBOSIGNATURE=
 #EXTINF:-1 group-title="Premium Channels" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg",HBO Signature
-https://link.zozotv.xyz:443/rozila969/abc12345/99
+https://raw.githubusercontent.com/prasoyt08/live/main/hbosig.m3u8
 
 
 ========== International Channels =========
